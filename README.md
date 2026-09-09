@@ -89,6 +89,8 @@ This project is open source and available under the **MIT License**.
 
 ## Author
 
-**Yousuf Uddin**
+**Khaja Yousuf Uddin**
 
-GitHub: [@YousufProjs-exe](https://github.com/YousufProjs-exe)
+- GitHub: [@YousufProjs-exe](https://github.com/YousufProjs-exe)
+- YSH Website: [yshweb.netlify.app](https://yshweb.netlify.app/)
+- Download YSH: [YSH-v8](https://github.com/YousufProjs-exe/YSH-v8/releases/)
