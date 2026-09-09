@@ -32,20 +32,33 @@
 ## Screenshots
 
 ### Main Interface
+"The terminal as a system."
 
-![YSH v8 main interface](screenshots/ysh-v8-main.png)
+![YSH v8 main interface](https://github.com/YousufProjs-exe/YSH-v8/blob/main/YSH-SS/YSH%20v8.png)
 
 ### Filesystem
+"From virtual to real."
 
-![YSH v8 filesystem commands](screenshots/ysh-v8-filesystem.png)
+![YSH v8 filesystem commands](https://github.com/YousufProjs-exe/YSH-v8/blob/main/YSH-SS/FILE%20SYSTEM.png)
 
 ### LAN Networking
+"YSH can talk."
 
-![YSH v8 LAN networking](screenshots/ysh-v8-network.png)
+![YSH v8 LAN networking](https://github.com/YousufProjs-exe/YSH-v8/blob/main/YSH-SS/YSH%20v8%20LAN%20CHAT.png)
 
 ### Themes
+"Make YSH yours."
 
-![YSH v8 themes](screenshots/ysh-v8-themes.png)
+![YSH v8 themes](https://github.com/YousufProjs-exe/YSH-v8/blob/main/YSH-SS/NICE%20YSH.png)
+
+### Message for You 
+"Some builds happen late."
+
+![YSH v8 LATE NIGHT](https://github.com/YousufProjs-exe/YSH-v8/blob/main/YSH-SS/LATE%20NIGHT.png)
+
+"For Developers."
+
+![YSH v8 MODES](https://github.com/YousufProjs-exe/YSH-v8/blob/main/YSH-SS/developer%20mode.png)
 
 ## Getting Started
 
