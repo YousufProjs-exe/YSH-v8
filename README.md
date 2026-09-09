@@ -4,7 +4,7 @@
 
 **YSH v8.GUI** is a major version of YSH, combining a terminal-style graphical interface with real filesystem interaction, LAN communication, file sharing, command history, themes, developer mode, and various built-in utilities.
 
-![YSH v8 GUI](YSH-SS/YSH_v8.png)
+![YSH v8 GUI](https://github.com/YousufProjs-exe/YSH-v8/blob/main/YSH-SS/YSH%20v8.png)
 
 ## Features
 
