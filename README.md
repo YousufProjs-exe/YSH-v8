@@ -1,6 +1,8 @@
-# YSH — Yousuf Shell v8 <a href="https://yousufprojs-exe.github.io/YSH-WEBSITE/"><i>Visit</i></a>
+# YSH — Yousuf Shell v8 
 
-> A Java-based graphical shell built from scratch with real filesystem operations, LAN networking, customization, and developer-focused features.
+<a href="https://yousufprojs-exe.github.io/YSH-WEBSITE/"><i>Visit</i></a>
+
+A Java-based graphical shell built from scratch with real filesystem operations, LAN networking, customization, and developer-focused features.
 
 **YSH v8.GUI** is a major version of YSH, combining a terminal-style graphical interface with real filesystem interaction, LAN communication, file sharing, command history, themes, developer mode, and various built-in utilities.
 
@@ -27,7 +29,7 @@
 * **Java 17**
 * **Java Swing**
 * Java NIO / Filesystem APIs
-* TCP networking with `Socket` and `ServerSocket`
+* TCP networking with Socket and ServerSocket
 
 ## Screenshots
 
@@ -67,28 +69,25 @@
 * Java 17 or later
 * Windows, Linux, or another Java-supported platform
 
-### Run
-
-```bash
-java -jar YSH.jar
-```
 
 Alternatively, compile the source with Java 17 and launch the main class.
 
-## Networking
+## Networking (makes it even Cool and Unique)
 
 YSH v8 includes LAN networking features for communication between YSH instances on the same network.
 
 Supported functionality includes:
 
+* IP Scan
+* No mater what version of YSH you use Everyone is equal
 * Hosting a chat server
-* Connecting to another YSH host
-* Sending messages
+* or joining one 
+* Connecting to another YSH host 
+* or Sending messages
 * Listing connected users
-* Kicking users
-* Sending announcements
-* LAN device scanning
-* LAN file sharing
+* or Kicking them 
+* Sending announcements and 
+* Share files (text only)
 
 ## Project History
 
@@ -96,14 +95,7 @@ YSH began as a command-line shell project and gradually evolved into a graphical
 
 **v8** represents one of the major steps in that evolution before the modular architecture introduced in later versions.
 
-## License
+Just another masterpiece by Yousuf 
 
-This project is open source and available under the **MIT License**.
-
-## Author
-
-**Khaja Yousuf Uddin**
-
-- GitHub: [@YousufProjs-exe](https://github.com/YousufProjs-exe)
-- YSH Website: [yshweb.netlify.app](https://yshweb.netlify.app/)
-- Download YSH: [YSH-v8](https://github.com/YousufProjs-exe/YSH-v8/releases/)
+- Try Web: [yshweb.netlify.app](https://yshweb.netlify.app/)   ||  
+- Take it your home: [YSH-v8](https://github.com/YousufProjs-exe/YSH-v8/releases/)
