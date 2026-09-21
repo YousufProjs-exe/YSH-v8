@@ -4,7 +4,7 @@
 
 A Java-based graphical shell built from scratch with real filesystem access, LAN networking, themes, utilities, and developer-focused features.
 
-[YSH v8 GUI](https://github.com/YousufProjs-exe/YSH-v8/blob/main/YSH-SS/YSH%20v8.png)
+![YSH v8 GUI](https://github.com/YousufProjs-exe/YSH-v8/blob/main/YSH-SS/YSH%20v8.png)
 
 YSH v8.GUI brings a proper graphical terminal with real file operations, command history, command completion, LAN chat, text file sharing, user management, themes, Developer Mode, calculator, notes, system information, and more.
 
