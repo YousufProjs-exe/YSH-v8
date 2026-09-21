@@ -1,9 +1,7 @@
 # YSH — Yousuf Shell v8 
 
 <a href="https://yousufprojs-exe.github.io/YSH-WEBSITE/"><i>Visit</i></a>
-
 A Java-based graphical shell built from scratch with real filesystem operations, LAN networking, customization, and developer-focused features.
-
 **YSH v8.GUI** is a major version of YSH, combining a terminal-style graphical interface with real filesystem interaction, LAN communication, file sharing, command history, themes, developer mode, and various built-in utilities.
 
 ![YSH v8 GUI](https://github.com/YousufProjs-exe/YSH-v8/blob/main/YSH-SS/YSH%20v8.png)
@@ -26,8 +24,8 @@ A Java-based graphical shell built from scratch with real filesystem operations,
 
 ## Built With
 
-* **Java 17**
-* **Java Swing**
+* Java 17
+* Java Swing
 * Java NIO / Filesystem APIs
 * TCP networking with Socket and ServerSocket
 
@@ -37,16 +35,6 @@ A Java-based graphical shell built from scratch with real filesystem operations,
 "The terminal as a system."
 
 ![YSH v8 main interface](https://github.com/YousufProjs-exe/YSH-v8/blob/main/YSH-SS/YSH%20v8.png)
-
-### Filesystem
-"From virtual to real."
-
-![YSH v8 filesystem commands](https://github.com/YousufProjs-exe/YSH-v8/blob/main/YSH-SS/FILE%20SYSTEM.png)
-
-### LAN Networking
-"YSH can talk."
-
-![YSH v8 LAN networking](https://github.com/YousufProjs-exe/YSH-v8/blob/main/YSH-SS/YSH%20v8%20LAN%20CHAT.png)
 
 ### Themes
 "Make YSH yours."
@@ -64,7 +52,7 @@ A Java-based graphical shell built from scratch with real filesystem operations,
 
 ## Getting Started
 
-### Requirements
+### Requirements 
 
 * Java 17 or later
 * Windows, Linux, or another Java-supported platform
@@ -89,7 +77,7 @@ Supported functionality includes:
 * Sending announcements and 
 * Share files (text only)
 
-## Project History
+## Project (v8 actually)
 
 YSH began as a command-line shell project and gradually evolved into a graphical shell with filesystem access, networking, utilities, and its own interface.
 
