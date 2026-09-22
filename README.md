@@ -10,21 +10,24 @@ A Java-based graphical shell built from scratch with real filesystem operations,
 try commadns - 
 [ TAB completes commands , Arrow up and down rewinds the commadns ]
 
-pwd
-developer 
-mkdir "name"
-cd "name"
-scan
-chat host 
-chat join "ip"
-msg "text"
-fileshare host 
-fileshare get "ip" "file name" 
-note 
-theme matrix 
-easteregg 
-run "app"
-sysinfo
+* help 
+- pwd
+- developer 
+- mkdir "name"
+- cd "name"
+- scan
+- chat host 
+- chat join "ip"
+- msg "text"
+- fileshare host 
+- fileshare get "ip" "file name" 
+- note
+  then : add || view || list
+- calc 
+- theme matrix 
+- easteregg 
+- run "app"
+- sysinfo
 
 and theres more to explore - Take it your home: [YSH-v8](https://github.com/YousufProjs-exe/YSH-v8/releases/)
 
