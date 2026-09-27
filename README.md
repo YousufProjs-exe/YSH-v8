@@ -1,13 +1,12 @@
 # YSH — Yousuf Shell v8 
 
-- <a href="https://yousufprojs-exe.github.io/YSH-WEBSITE/"><i>YSH About Website</i></a>
-- <a href="https://github.com/YousufProjs-exe/YSH-CLI"><i>YSH-CLI</i></a>
-- <a href="https://github.com/YousufProjs-exe/YSH-GUI/"><i>YSH-GUI v5 [First GUI]</i></a>
-- <a href="https://github.com/YousufProjs-exe/YSH"><i>YSH v7</i></a>
-- <a href="https://github.com/YousufProjs-exe/YSH-v8"><i>YSH v8</i></a>
+* <a href="https://yousufprojs-exe.github.io/YSH-WEBSITE/"><i>YSH About Website</i></a>
+* <a href="https://github.com/YousufProjs-exe/YSH-CLI"><i>YSH-CLI</i></a>
+* <a href="https://github.com/YousufProjs-exe/YSH-GUI/"><i>YSH-GUI v5 [First GUI]</i></a>
+* <a href="https://github.com/YousufProjs-exe/YSH"><i>YSH v7</i></a>
+* <a href="https://github.com/YousufProjs-exe/YSH-v8"><i>YSH v8</i></a>
 - <a href="https://github.com/YousufProjs-exe/YSH-v10"><i>YSH v10 [ In Developement ]</i></a>
 
-- 
 A Java-based graphical shell built from scratch with real filesystem operations, LAN networking, customization, and developer-focused features.
 **YSH v8.GUI** is a major version of YSH, combining a terminal-style graphical interface with real filesystem interaction, LAN communication, file sharing, command history, themes, developer mode, and various built-in utilities.
 
