@@ -1,4 +1,4 @@
-// YSH is Built through verions and Generated.
+// YSH is Built through verions NOT Generated.
 // Comments are for better understanding not AI prove ( dont be chay . )
 
 // JAVA CLASSES 
