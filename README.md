@@ -1,6 +1,6 @@
 # YSH — Yousuf Shell v8 
 
-#Built, not generated
+# Built, not generated
 YSH has evolved through multiple versions.
 
 * <a href="https://yousufprojs-exe.github.io/YSH-WEBSITE/"><i>YSH About Website</i></a>
