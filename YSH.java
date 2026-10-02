@@ -1,3 +1,5 @@
+// YSH is Built through verions and Generated.
+// Comments are for better understanding not AI prove ( dont be chay . )
 
 // JAVA CLASSES 
 import javax.swing.*;
