@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Yousuf\Desktop\Projects\YSH v8\YSH-v8.1.jar</jar>
+  <outfile>C:\Users\Yousuf\Desktop\Projects\YSH v8\YSH-v8.1.4.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\Yousuf\Desktop\Projects\YSH_logo.ico</icon>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>true</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>17</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+  <messages>
+    <startupErr>contact Yousuf or check JDK is atleast 17 or not.</startupErr>
+    <jreNotFoundErr>bro wht , JDK 17 is minimum </jreNotFoundErr>
+    <jreVersionErr>huh, not even JDk 17 in this economy !?</jreVersionErr>
+    <launcherErr>uh Call Yousuf!.</launcherErr>
+    <instanceAlreadyExistsMsg>Easter egg or wht? YSH is build for multiple windows , still u got this ! Great </instanceAlreadyExistsMsg>
+  </messages>
+</launch4jConfig>
